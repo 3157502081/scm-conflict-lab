@@ -1,4 +1,4 @@
-Project Title: Untitled
+Project Title: Student Portal
  Team Members: Sami ullah and Ubaid Ali
 Course: SCM Lab
 Status: In Progress
