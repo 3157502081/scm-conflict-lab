@@ -1,5 +1,9 @@
 Project Title: Student Portal
 Project Title: Library System
  Team Members: Sami ullah and Ubaid Ali
-Course: SCM Lab 7
+<<<<<<< HEAD
+Course:Software Configuration Management (SCM Lab 7)
+=======
+Course: Software Configuration Management
+>>>>>>> 2f6491c6f7ff69a60e4ef00f6da20eca04c78c15
 Status: In Progress
